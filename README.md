@@ -1,7 +1,7 @@
 ### Hi, my name is Luísa Kiefer! 
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💡 Hopefully, I will soon be working as a front-end developer 
+- 🌱 I’m currently learning HTML, CSS, Javascript and Phyton
+- 💡 Hopefully, I will soon be working as developer 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: transitioning from a career of 10+ year as a journalist and an independent art curator to web-development. 
 
@@ -9,6 +9,8 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"alt="React" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 </div>
 </br>
 <div>
